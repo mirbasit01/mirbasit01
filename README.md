@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Mir Basit! 👋
 
-<!--
-**mirbasit01/mirbasit01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Frontend Developer | React.js | Next.js | JavaScript Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate frontend developer who loves building modern web applications with a keen focus on performance, scalability, and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Skills
+- **Frontend**: React.js, Next.js, JavaScript (ES6+), TypeScript
+- **Styling**: Tailwind CSS, Bootstrap, Styled-Components
+- **State Management**: Redux, Context API, Zustand
+- **APIs & Backend**: RESTful APIs, GraphQL, Axios, Firebase
+- **Tools & Workflow**: Git, Webpack, Vite, CI/CD, Agile methodologies
+
+### 🌟 What I Love to Work On
+- Interactive and dynamic UIs
+- API integration & state management
+- Performance optimization
+- Responsive web design
+
+### 📫 Let's Connect!
+- **GitHub**: [mirbasit01](https://github.com/mirbasit01)
+- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/abdul-basit-17a689234/)](#)
+- **Twitter**: [[@YourHandle](https://x.com/iamabdulbasit__)](#)
+- **Portfolio**: [[Your Portfolio Link](https://iamabdulbasit.netlify.app/)](#)
+
+🚀 Always open to collaborating on exciting projects and learning new technologies!
+
