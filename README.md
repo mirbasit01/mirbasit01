@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm a passionate frontend developer who loves buil
 
 ### 📫 Let's Connect!
 - **GitHub**: [mirbasit01](https://github.com/mirbasit01)
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/abdul-basit-17a689234/)](#)
-- **Twitter**: [[@YourHandle](https://x.com/iamabdulbasit__)](#)
-- **Portfolio**: [[Your Portfolio Link](https://iamabdulbasit.netlify.app/)](#)
+- **LinkedIn**: [[abdulbasit](https://www.linkedin.com/in/abdul-basit-17a689234/)](#)
+- **Twitter**: [[Iamabdulbasit](https://x.com/iamabdulbasit__)](#)
+- **Portfolio**: [[Iamabdulbasit](https://iamabdulbasit.netlify.app/)](#)
 
 🚀 Always open to collaborating on exciting projects and learning new technologies!
 
