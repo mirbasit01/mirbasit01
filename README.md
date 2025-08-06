@@ -1,6 +1,6 @@
 # Hi there, I'm Mir Basit! 👋
 
-## 🚀 Frontend Developer | React.js | Next.js | JavaScript Enthusiast
+## 🚀 Frontend Developer | React.js | Next.js | JavaScript 
 
 Welcome to my GitHub profile! I'm a passionate frontend developer who loves building modern web applications with a keen focus on performance, scalability, and user experience.
 
