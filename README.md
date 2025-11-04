@@ -31,9 +31,9 @@ I also work with **Web3 technologies**, integrating **smart contracts** and crea
 ## 📫 Let's Connect!  
 
 - **GitHub:** [mirbasit01](https://github.com/mirbasit01)  
-- **LinkedIn:** [abdulbasit](#)  
-- **Twitter:** [Iamabdulbasit](#)  
-- **Portfolio:** [Iamabdulbasit](#)  
+- **LinkedIn:** [abdulbasit](https://www.linkedin.com/in/abdul-basit-17a689234/)  
+- **X:** [Iamabdulbasit](Iamabdulbasit)  
+- **Portfolio:** [Iamabdulbasit](https://iamabdulbasit.netlify.app/)  
 
 ---
 
