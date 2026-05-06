@@ -41,6 +41,7 @@ I'm a passionate **MERN Stack & Blockchain Developer** with a strong focus on **
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Phaser](https://img.shields.io/badge/Phaser-8B0000?style=flat-square&logo=javascript&logoColor=white)
 
 ### Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -58,6 +59,7 @@ I'm a passionate **MERN Stack & Blockchain Developer** with a strong focus on **
 ### State Management
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=react&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### Web3 & Blockchain
