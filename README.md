@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Abdul Basit! 👋</h1>
+<h1 align="center">Hi there, I'm Abdul Basit! </h1>
 
 <p align="center">
-  <b>🚀 Frontend & Blockchain Developer | React.js · Next.js · TypeScript · Node.js · Web3</b>
+  <b>Frontend & Blockchain Developer | React.js · Next.js · TypeScript · Node.js · Web3</b>
 </p>
 
 <p align="center">
@@ -21,20 +21,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **MERN Stack & Blockchain Developer** with a strong focus on **front-end development** and **Web3 integration**. Currently working at **[Quecko](https://quecko.com)** as a **Frontend Developer**, where I build scalable, efficient, and user-focused web applications and dApps.
 
-- 🏢 **Currently:** Frontend Developer @ **Quecko** — building production-grade web and dApp solutions
-- ⚡ I work with **React.js, Next.js, TypeScript, Node.js, Express.js, NestJS, and MongoDB**
-- 🌐 Deep expertise in **Web3.js, Ethers.js, Wagmi**, and **Smart Contract integration**
-- 🌉 I bridge **Web2 and Web3** to create seamless blockchain experiences
-- 💡 Passionate about **clean code**, **performance optimization**, and **reliable, scalable systems**
-- 🤝 Always open to collaborating on **exciting projects** and exploring **new technologies!**
+- **Currently:** Frontend Developer @ **Quecko** — building production-grade web and dApp solutions
+- I work with **React.js, Next.js, TypeScript, Node.js, Express.js, NestJS, and MongoDB**
+- Deep expertise in **Web3.js, Ethers.js, Wagmi**, and **Smart Contract integration**
+- I bridge **Web2 and Web3** to create seamless blockchain experiences
+- Passionate about **clean code**, **performance optimization**, and **reliable, scalable systems**
+- Always open to collaborating on **exciting projects** and exploring **new technologies!**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -77,18 +77,18 @@ I'm a passionate **MERN Stack & Blockchain Developer** with a strong focus on **
 
 ---
 
-## ⚡ What I Love to Work On
+## What I Love to Work On
 
-- ⚡ Interactive & dynamic UIs
-- 🔗 API integration & state management
-- 📱 Responsive web design & performance optimization
-- 🌐 Web3 dApps & Smart Contract integration
-- 🔧 Scalable backend systems with Node.js, Express.js & NestJS
-- 🍃 Database design and management with MongoDB
+-  Interactive & dynamic UIs
+-  API integration & state management
+-  Responsive web design & performance optimization
+-  Web3 dApps & Smart Contract integration
+-  Scalable backend systems with Node.js, Express.js & NestJS
+-  Database design and management with MongoDB
 
 ---
 
-## 📌 Pinned Projects
+##  Pinned Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
