@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7aa2f7&height=200&section=header&text=Abdul%20Basit&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Frontend%20%E2%80%A2%20Web3%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Three.js&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7aa2f7&height=200&section=header&text=Abdul%20Basit&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%2C%20React%2C%20Node.js%2C%20TypeScript&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=%3E+npm+run+build-the-future;%3E+Frontend+%26+Blockchain+Developer+%E2%9B%93%EF%B8%8F;%3E+Shipping+AI+Agents+with+Claude+%7C+OpenAI+%7C+Gemini+%F0%9F%A4%96;%3E+Rendering+3D+worlds+with+Three.js+%F0%9F%A7%8A;%3E+while(alive)+%7B+code()%3B+learn()%3B+ship()%3B+%7D" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=%3E+npm+run+build-the-future;%3E+MERN+Stack+%26+Blockchain+Developer+%E2%9B%93%EF%B8%8F;%3E+Shipping+AI+Agents+with+Claude+%7C+OpenAI+%7C+Gemini+%F0%9F%A4%96;%3E+Integration+Expert+%E2%80%94+APIs+%7C+Wallets+%7C+LLMs+%7C+Payments+%F0%9F%94%8C;%3E+while(alive)+%7B+code()%3B+learn()%3B+ship()%3B+%7D" alt="typing" />
   </a>
 </p>
 
@@ -15,11 +15,11 @@
 
 ---
 
-## 🖥️ $ whoami
+## 👨‍💻 About Me
 
 ~~~ts
 const abdulBasit = {
-  role:        "Frontend & Blockchain Developer",
+  role:        "Full-Stack MERN Developer",
   company:     "Quecko 🚀",
   code:        ["TypeScript", "JavaScript"],
   frontend:    ["React.js", "Next.js", "Tailwind", "Redux", "Zustand"],
