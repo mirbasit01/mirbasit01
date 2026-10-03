@@ -46,10 +46,6 @@ My work covers **Web2 + Web3 + AI**: modern frontends and APIs, blockchain inter
 | **ITED** | AI chat app powered by the Gemini API | React · Gemini API | [Live](https://mirbasit01.github.io/ited/) · [Code](https://github.com/mirbasit01/ited) |
 | **Gamivox** | Browser games portal | Next.js 16 · Phaser 3 | [Live](https://gamivox-green.vercel.app) · [Code](https://github.com/mirbasit01/Gamivox) |
 
-<!-- Hidden from visitors (kept for later):
-| **CashCasino** | Web3 crypto casino dApp on Arbitrum One, settled in USDC — I built core games (Vault, Mines, Dice, Blackjack, Crash), on-chain bet/cashout hooks and account-abstraction onboarding | React · Wagmi · WalletConnect v2 · Alchemy Account Kit · Biconomy · WebSocket | Client project (private) |
--->
-
 More case studies on my [portfolio](https://mirbasit01.netlify.app/#project).
 
 ## Tech stack
