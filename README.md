@@ -35,17 +35,20 @@ My work covers **Web2 + Web3 + AI**: modern frontends and APIs, blockchain inter
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **CashCasino** | Web3 crypto casino dApp on Arbitrum One, settled in USDC — I built core games (Vault, Mines, Dice, Blackjack, Crash), on-chain bet/cashout hooks and account-abstraction onboarding | React · Wagmi · WalletConnect v2 · Alchemy Account Kit · Biconomy · WebSocket | Client project (private) |
 | **Forme** | Full-stack NFT marketplace: mint, buy and sell NFTs, auctions, launchpad, collections | React · Solidity · Wagmi · Express + TypeScript | [Live](https://formenfts.netlify.app/) |
 | **LAYXES** | Clothing e-commerce store with its own admin dashboard (revenue, orders, stock) | Next.js · TypeScript · MongoDB · TanStack | [Live](https://abwrh-landing.vercel.app/) · [Code](https://github.com/mirbasit01/layxes-landing) |
 | **QuickHealthy** | Recipe & blog platform with admin dashboard and rich-text editor | Next.js 15 · React 19 · TipTap · PHP API | [Live](https://quickhealthymealtips.com) |
 | **ERC-20 Checkout** | ERC-20 token payments with wallet connection | Next.js · Wagmi v2 · Viem | [Code](https://github.com/mirbasit01/erc20-checkout) |
 | **Web3 Wallet App** | Connect wallet, view balances, transfer tokens | React · Web3 | [Code](https://github.com/mirbasit01/web3-wallet-app) |
 | **Smart Contract Interface** | Wallet connect + read/write calls on deployed contracts | React · Ethers.js | [Code](https://github.com/mirbasit01/ethersjs-Smart-Contract-integration-reactjs) |
-| **Integration Hub** | How a frontend connects to REST, GraphQL, wallets and smart contracts, with a Medium guide | React · GraphQL · Web3 | [Code](https://github.com/mirbasit01/Integration-hub) |
+| **Integration Hub** | How a frontend connects to REST, GraphQL, wallets and smart contracts, with a Medium guide | React · GraphQL · Web3 | [Live](https://integrationbymirbasit01.netlify.app/) · [Code](https://github.com/mirbasit01/Integration-hub) |
 | **Your DRC** | Startup pitch & directory platform with CMS and auth | Next.js 15 · Sanity | [Live](https://your-drc.vercel.app) · [Code](https://github.com/mirbasit01/your_drc) |
 | **ITED** | AI chat app powered by the Gemini API | React · Gemini API | [Live](https://mirbasit01.github.io/ited/) · [Code](https://github.com/mirbasit01/ited) |
 | **Gamivox** | Browser games portal | Next.js 16 · Phaser 3 | [Live](https://gamivox-green.vercel.app) · [Code](https://github.com/mirbasit01/Gamivox) |
+
+<!-- Hidden from visitors (kept for later):
+| **CashCasino** | Web3 crypto casino dApp on Arbitrum One, settled in USDC — I built core games (Vault, Mines, Dice, Blackjack, Crash), on-chain bet/cashout hooks and account-abstraction onboarding | React · Wagmi · WalletConnect v2 · Alchemy Account Kit · Biconomy · WebSocket | Client project (private) |
+-->
 
 More case studies on my [portfolio](https://mirbasit01.netlify.app/#project).
 
