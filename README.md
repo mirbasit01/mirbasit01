@@ -73,6 +73,7 @@ I write developer guides on [Medium](https://medium.com/@mirbasit01) about Wagmi
 
 - **Portfolio:** [mirbasit01.netlify.app](https://mirbasit01.netlify.app/)
 - **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/~010780281bc9559bf1)
+- **Fiverr:** [iamabdulbasit__](https://www.fiverr.com/iamabdulbasit__)
 - **Email:** [mirt11477@gmail.com](mailto:mirt11477@gmail.com)
 - **Phone / WhatsApp:** [+92 303 2003399](https://wa.me/923032003399)
 - **LinkedIn:** [abdul-basit-17a689234](https://www.linkedin.com/in/abdul-basit-17a689234/)
