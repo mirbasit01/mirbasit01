@@ -1,13 +1,13 @@
 <h1 align="center">Abdul Basit</h1>
 
 <p align="center">
-  <b>Freelance Web Developer &amp; Web3 Developer from Pakistan</b><br/>
+  <b>Frontend &amp; Web3 Developer from Pakistan</b><br/>
+  Open to full-time roles and freelance projects<br/>
   React · Next.js · TypeScript · Web3 dApps · NFT platforms · AI integration
 </p>
 
 <p align="center">
   <a href="https://mirbasit01.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-mirbasit01.netlify.app-0d1117?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portfolio" /></a>
-  <a href="https://www.upwork.com/freelancers/~010780281bc9559bf1"><img src="https://img.shields.io/badge/Hire_me-Upwork-0d1117?style=for-the-badge&logo=upwork&logoColor=6fda44" alt="Hire me on Upwork" /></a>
   <a href="https://www.linkedin.com/in/abdul-basit-17a689234/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" /></a>
   <a href="mailto:mirt11477@gmail.com"><img src="https://img.shields.io/badge/Email-mirt11477%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" /></a>
 </p>
@@ -16,9 +16,9 @@
 
 ## About me
 
-I'm Abdul Basit, a freelance web developer and Web3 developer based in Islamabad, Pakistan, working remotely with clients worldwide. I build React and Next.js web apps, Web3 dApps with wallet and smart contract integration, NFT platforms, e-commerce stores and AI-powered features.
+I'm Abdul Basit, a Frontend & Web3 developer based in Islamabad, Pakistan. I'm open to full-time remote roles and also take freelance projects. I build React and Next.js web apps, Web3 dApps with wallet and smart contract integration, NFT platforms, e-commerce stores and AI-powered features.
 
-My work covers **Web2 + Web3 + AI**: modern frontends and APIs, blockchain interfaces, and LLM features inside real products. I've built with React and Next.js since 2022, worked on Web3 frontends at Quecko, and today I take client projects through Upwork and direct contracts.
+My work covers **Web2 + Web3 + AI**: modern frontends and APIs, blockchain interfaces, and LLM features inside real products. I've built with React and Next.js since 2022, worked on Web3 frontends at Quecko, and I've delivered freelance client projects end to end.
 
 ## Services
 
@@ -71,8 +71,6 @@ I write developer guides on [Medium](https://medium.com/@mirbasit01) about Wagmi
 ## Contact
 
 - **Portfolio:** [mirbasit01.netlify.app](https://mirbasit01.netlify.app/)
-- **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/~010780281bc9559bf1)
-- **Fiverr:** [iamabdulbasit__](https://www.fiverr.com/iamabdulbasit__)
 - **Email:** [mirt11477@gmail.com](mailto:mirt11477@gmail.com)
 - **Phone / WhatsApp:** [+92 303 2003399](https://wa.me/923032003399)
 - **LinkedIn:** [abdul-basit-17a689234](https://www.linkedin.com/in/abdul-basit-17a689234/)
